@@ -14,3 +14,6 @@ npm add react-toastify
  8.npm install dotenv
 
 "start":"nodemon index.js"
+
+# Run the project
+localhost:3000/register for new user to create account
